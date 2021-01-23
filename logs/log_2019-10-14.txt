@@ -1,6 +1,0 @@
-2019-10-14 1:03:34 - INFO --> Location = catalog.php :: Query = responsibility
-2019-10-14 4:17:06 - INFO --> Location = catalog.php :: Query = law
-2019-10-14 6:33:48 - INFO --> Location = catalog.php :: Query = set
-2019-10-14 6:33:50 - INFO --> Location = catalog.php :: Query = rules
-2019-10-14 8:39:51 - INFO --> Location = catalog.php :: Query = code of ethics
-2019-10-14 17:54:42 - INFO --> Location = search.php :: Query = 

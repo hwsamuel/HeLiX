@@ -1,4 +1,0 @@
-2021-01-22 4:38:12 - INFO --> Location = catalog.php :: Query = standards
-2021-01-22 9:48:07 - INFO --> Location = search.php :: Query = 
-2021-01-22 11:05:55 - INFO --> Location = catalog.php :: Query = priority
-2021-01-22 11:06:00 - INFO --> Location = catalog.php :: Query = personal

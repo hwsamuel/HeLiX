@@ -1,2 +1,0 @@
-2020-02-17 11:56:17 - INFO --> Location = catalog.php :: Query = standards
-2020-02-17 20:11:20 - INFO --> Location = catalog.php :: Query = law

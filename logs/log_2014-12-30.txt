@@ -1,5 +1,0 @@
-2014-12-30 15:22:49 - INFO --> Location = catalog.php :: Query = standards
-2014-12-30 16:10:46 - INFO --> Location = catalog.php :: Query = advice
-2014-12-30 16:53:18 - INFO --> Location = catalog.php :: Query = professional
-2014-12-30 18:18:02 - INFO --> Location = catalog.php :: Query = law
-2014-12-30 21:55:58 - INFO --> Location = catalog.php :: Query = code of ethics

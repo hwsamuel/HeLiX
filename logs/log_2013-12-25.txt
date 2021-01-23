@@ -1,3 +1,0 @@
-2013-12-25 3:59:14 - INFO --> Location = search.php :: Query = established
-2013-12-25 3:59:37 - INFO --> Location = search.php :: Query = society
-2013-12-25 4:00:00 - INFO --> Location = search.php :: Query = standards

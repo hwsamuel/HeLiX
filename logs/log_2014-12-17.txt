@@ -1,3 +1,0 @@
-2014-12-17 20:08:26 - INFO --> Location = catalog.php :: Query = advice
-2014-12-17 22:59:52 - INFO --> Location = catalog.php :: Query = standards
-2014-12-17 23:20:37 - INFO --> Location = catalog.php :: Query = behaviour

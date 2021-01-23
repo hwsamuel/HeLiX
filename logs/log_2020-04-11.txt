@@ -1,5 +1,0 @@
-2020-04-11 19:58:43 - INFO --> Location = catalog.php :: Query = code of ethics
-2020-04-11 19:58:46 - INFO --> Location = catalog.php :: Query = code of ethics'[0]
-2020-04-11 19:58:47 - INFO --> Location = catalog.php :: Query = "><script >alert(String.fromCharCode(88,83,83))</script>
-2020-04-11 19:58:51 - INFO --> Location = catalog.php :: Query = /etc/passwd
-2020-04-11 19:58:52 - INFO --> Location = catalog.php :: Query = Http://Www.Google.Com

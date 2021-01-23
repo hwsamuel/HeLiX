@@ -1,2 +1,0 @@
-2014-04-23 5:39:34 - INFO --> Location = catalog.php :: Query = standards
-2014-04-23 21:28:22 - INFO --> Location = catalog.php :: Query = law

@@ -1,3 +1,0 @@
-2019-10-10 6:25:54 - INFO --> Location = catalog.php :: Query = standards
-2019-10-10 6:26:05 - INFO --> Location = catalog.php :: Query = code of ethics
-2019-10-10 6:30:34 - INFO --> Location = catalog.php :: Query = standards

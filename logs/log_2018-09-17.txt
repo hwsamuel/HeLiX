@@ -1,3 +1,0 @@
-2018-09-17 5:59:39 - INFO --> Location = catalog.php :: Query = established
-2018-09-17 14:30:10 - INFO --> Location = catalog.php :: Query = 292
-2018-09-17 15:38:37 - INFO --> Location = catalog.php :: Query = code of ethics

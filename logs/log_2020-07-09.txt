@@ -1,4 +1,0 @@
-2020-07-09 14:45:01 - INFO --> Location = catalog.php :: Query = responsibility
-2020-07-09 14:45:19 - INFO --> Location = catalog.php :: Query = "><script >alert(String.fromCharCode(88,83,83))</script>
-2020-07-09 14:46:45 - INFO --> Location = catalog.php :: Query = /etc/passwd
-2020-07-09 14:47:54 - INFO --> Location = catalog.php :: Query = http://www.google.com

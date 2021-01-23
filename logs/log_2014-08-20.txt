@@ -1,2 +1,0 @@
-2014-08-20 1:39:02 - INFO --> Location = search.php :: Query = standards
-2014-08-20 1:43:52 - INFO --> Location = catalog.php :: Query = standards

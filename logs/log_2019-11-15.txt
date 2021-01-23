@@ -1,2 +1,0 @@
-2019-11-15 3:33:37 - INFO --> Location = search.php :: Query = professional
-2019-11-15 3:33:37 - INFO --> Location = search.php :: Query = professional

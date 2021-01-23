@@ -1,5 +1,0 @@
-2020-01-25 19:38:40 - INFO --> Location = catalog.php :: Query = set
-2020-01-25 21:11:01 - INFO --> Location = search.php :: Query = conduct
-2020-01-25 21:11:48 - INFO --> Location = catalog.php :: Query = conduct
-2020-01-25 21:39:45 - INFO --> Location = search.php :: Query = conduct
-2020-01-25 21:39:48 - INFO --> Location = catalog.php :: Query = conduct

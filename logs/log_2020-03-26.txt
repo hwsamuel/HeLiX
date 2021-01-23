@@ -1,2 +1,0 @@
-2020-03-26 15:50:23 - INFO --> Location = catalog.php :: Query = code of ethics
-2020-03-26 21:46:04 - INFO --> Location = catalog.php :: Query = law

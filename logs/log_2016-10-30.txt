@@ -1,2 +1,0 @@
-2016-10-30 13:20:51 - INFO --> Location = catalog.php :: Query = code
-2016-10-30 13:44:46 - INFO --> Location = search.php :: Query = responsibility

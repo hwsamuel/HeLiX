@@ -1,6 +1,0 @@
-2014-02-03 4:00:53 - INFO --> Location = search.php :: Query = advice
-2014-02-03 4:01:10 - INFO --> Location = search.php :: Query = code
-2014-02-03 4:01:28 - INFO --> Location = search.php :: Query = introduction
-2014-02-03 4:01:45 - INFO --> Location = search.php :: Query = responsibility
-2014-02-03 4:02:02 - INFO --> Location = search.php :: Query = set
-2014-02-03 8:33:19 - INFO --> Location = search.php :: Query = regulations

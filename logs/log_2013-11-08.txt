@@ -1,2 +1,0 @@
-2013-11-08 22:46:34 - INFO --> Location = search.php :: Query = ethics
-2013-11-08 22:47:51 - INFO --> Location = search.php :: Query = person

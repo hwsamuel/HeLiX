@@ -1,2 +1,0 @@
-2014-12-05 5:06:55 - INFO --> Location = catalog.php :: Query = set
-2014-12-05 5:12:35 - INFO --> Location = catalog.php :: Query = responsibility

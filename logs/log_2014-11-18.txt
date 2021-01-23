@@ -1,3 +1,0 @@
-2014-11-18 7:06:24 - INFO --> Location = catalog.php :: Query = society
-2014-11-18 8:02:34 - INFO --> Location = catalog.php :: Query = standards
-2014-11-18 8:07:03 - INFO --> Location = catalog.php :: Query = law

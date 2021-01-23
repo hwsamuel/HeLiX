@@ -1,2 +1,0 @@
-2020-01-28 20:28:11 - INFO --> Location = catalog.php :: Query = responsibility
-2020-01-28 20:28:13 - INFO --> Location = catalog.php :: Query = responsibility'[0]

@@ -1,9 +1,0 @@
-2014-03-11 7:15:55 - INFO --> Location = catalog.php :: Query = established
-2014-03-11 7:17:07 - INFO --> Location = search.php :: Query = behaviour
-2014-03-11 7:17:31 - INFO --> Location = search.php :: Query = code
-2014-03-11 7:17:56 - INFO --> Location = search.php :: Query = established
-2014-03-11 7:18:20 - INFO --> Location = search.php :: Query = law
-2014-03-11 7:18:44 - INFO --> Location = search.php :: Query = professional
-2014-03-11 14:13:38 - INFO --> Location = search.php :: Query = expected
-2014-03-11 18:15:47 - INFO --> Location = catalog.php :: Query = professional
-2014-03-11 18:16:09 - INFO --> Location = catalog.php :: Query = set

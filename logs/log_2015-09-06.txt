@@ -1,3 +1,0 @@
-2015-09-06 4:46:24 - INFO --> Location = catalog.php :: Query = society
-2015-09-06 8:59:53 - INFO --> Location = catalog.php :: Query = standards
-2015-09-06 18:17:05 - INFO --> Location = catalog.php :: Query = set

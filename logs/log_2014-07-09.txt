@@ -1,2 +1,0 @@
-2014-07-09 0:09:50 - INFO --> Location = catalog.php :: Query = law
-2014-07-09 7:20:01 - INFO --> Location = catalog.php :: Query = law

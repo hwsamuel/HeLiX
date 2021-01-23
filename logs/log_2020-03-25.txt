@@ -1,9 +1,0 @@
-2020-03-25 6:48:06 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:28 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:44 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:45 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:47 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:48 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:49 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:50 - INFO --> Location = catalog.php :: Query = law
-2020-03-25 6:52:50 - INFO --> Location = catalog.php :: Query = law

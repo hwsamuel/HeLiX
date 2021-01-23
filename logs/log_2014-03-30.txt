@@ -1,2 +1,0 @@
-2014-03-30 13:01:24 - INFO --> Location = catalog.php :: Query = society
-2014-03-30 19:08:36 - INFO --> Location = catalog.php :: Query = standards

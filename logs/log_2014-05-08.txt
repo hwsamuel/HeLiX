@@ -1,2 +1,0 @@
-2014-05-08 6:05:24 - INFO --> Location = catalog.php :: Query = established
-2014-05-08 18:42:31 - INFO --> Location = search.php :: Query = society

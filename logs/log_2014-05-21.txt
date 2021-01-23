@@ -1,5 +1,0 @@
-2014-05-21 10:49:57 - INFO --> Location = catalog.php :: Query = set
-2014-05-21 12:01:11 - INFO --> Location = catalog.php :: Query = responsibility
-2014-05-21 12:32:20 - INFO --> Location = catalog.php :: Query = expected
-2014-05-21 17:59:36 - INFO --> Location = catalog.php :: Query = conduct
-2014-05-21 19:04:06 - INFO --> Location = catalog.php :: Query = set

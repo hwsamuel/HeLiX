@@ -1,3 +1,0 @@
-2015-03-04 11:01:00 - INFO --> Location = search.php :: Query = test
-2015-03-04 11:01:05 - INFO --> Location = search.php :: Query = private
-2015-03-04 11:01:21 - INFO --> Location = search.php :: Query = private

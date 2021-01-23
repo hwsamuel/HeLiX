@@ -1,2 +1,0 @@
-2018-07-04 4:31:14 - INFO --> Location = catalog.php :: Query = code of ethics
-2018-07-04 4:31:18 - INFO --> Location = catalog.php :: Query = code of ethics'[0]

@@ -1,3 +1,0 @@
-2020-01-29 10:07:57 - INFO --> Location = search.php :: Query = conduct
-2020-01-29 10:38:03 - INFO --> Location = search.php :: Query = professional
-2020-01-29 12:29:24 - INFO --> Location = catalog.php :: Query = responsibility

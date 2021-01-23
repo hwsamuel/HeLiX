@@ -1,5 +1,0 @@
-2020-02-23 6:34:19 - INFO --> Location = catalog.php :: Query = regulations
-2020-02-23 6:34:22 - INFO --> Location = catalog.php :: Query = regulations'[0]
-2020-02-23 6:34:27 - INFO --> Location = catalog.php :: Query = "><script >alert(String.fromCharCode(88,83,83))</script>
-2020-02-23 6:34:32 - INFO --> Location = catalog.php :: Query = /etc/passwd
-2020-02-23 6:34:33 - INFO --> Location = catalog.php :: Query = Http://Www.Google.Com

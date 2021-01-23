@@ -1,4 +1,0 @@
-2016-03-24 0:49:36 - INFO --> Location = catalog.php :: Query = professional
-2016-03-24 7:57:11 - INFO --> Location = search.php :: Query = code
-2016-03-24 11:06:02 - INFO --> Location = catalog.php :: Query = standards
-2016-03-24 23:43:43 - INFO --> Location = catalog.php :: Query = standards

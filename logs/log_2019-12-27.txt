@@ -1,1 +1,0 @@
-2019-12-27 13:27:41 - INFO --> Location = search.php :: Query = conduct

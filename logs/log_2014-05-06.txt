@@ -1,1 +1,0 @@
-2014-05-06 4:44:52 - INFO --> Location = catalog.php :: Query = rules

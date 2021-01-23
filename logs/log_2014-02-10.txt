@@ -1,5 +1,0 @@
-2014-02-10 1:24:49 - INFO --> Location = search.php :: Query = general
-2014-02-10 1:33:51 - INFO --> Location = catalog.php :: Query = general
-2014-02-10 1:35:57 - INFO --> Location = catalog.php :: Query = general
-2014-02-10 1:36:30 - INFO --> Location = catalog.php :: Query = general
-2014-02-10 14:02:54 - INFO --> Location = search.php :: Query = general

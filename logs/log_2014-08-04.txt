@@ -1,2 +1,0 @@
-2014-08-04 13:51:34 - INFO --> Location = catalog.php :: Query = standards
-2014-08-04 17:34:19 - INFO --> Location = catalog.php :: Query = set

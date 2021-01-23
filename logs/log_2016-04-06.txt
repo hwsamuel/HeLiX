@@ -1,1 +1,0 @@
-2016-04-06 14:50:27 - INFO --> Location = search.php :: Query = areas of overlap

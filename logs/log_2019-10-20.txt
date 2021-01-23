@@ -1,3 +1,0 @@
-2019-10-20 7:16:21 - INFO --> Location = catalog.php :: Query = society
-2019-10-20 11:39:19 - INFO --> Location = search.php :: Query = general
-2019-10-20 14:02:34 - INFO --> Location = catalog.php :: Query = responsibility

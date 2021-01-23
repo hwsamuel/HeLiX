@@ -1,4 +1,0 @@
-2014-11-20 1:03:51 - INFO --> Location = catalog.php :: Query = society
-2014-11-20 1:19:14 - INFO --> Location = catalog.php :: Query = professional
-2014-11-20 1:20:44 - INFO --> Location = catalog.php :: Query = advice
-2014-11-20 3:46:36 - INFO --> Location = catalog.php :: Query = advice

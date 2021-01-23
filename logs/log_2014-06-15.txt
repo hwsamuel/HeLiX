@@ -1,3 +1,0 @@
-2014-06-15 21:27:49 - INFO --> Location = catalog.php :: Query = code
-2014-06-15 22:22:56 - INFO --> Location = search.php :: Query = established
-2014-06-15 23:11:46 - INFO --> Location = catalog.php :: Query = expected

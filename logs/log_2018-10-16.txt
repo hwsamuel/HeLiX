@@ -1,4 +1,0 @@
-2018-10-16 6:26:15 - INFO --> Location = catalog.php :: Query = responsibility
-2018-10-16 8:47:56 - INFO --> Location = catalog.php :: Query = responsibility
-2018-10-16 17:26:10 - INFO --> Location = catalog.php :: Query = responsibility
-2018-10-16 21:07:37 - INFO --> Location = catalog.php :: Query = responsibility

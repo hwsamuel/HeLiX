@@ -1,4 +1,0 @@
-2020-02-06 1:05:37 - INFO --> Location = catalog.php :: Query = society
-2020-02-06 11:35:40 - INFO --> Location = catalog.php :: Query = responsibility
-2020-02-06 13:02:40 - INFO --> Location = search.php :: Query = conduct
-2020-02-06 13:16:19 - INFO --> Location = catalog.php :: Query = set

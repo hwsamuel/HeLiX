@@ -1,5 +1,0 @@
-2014-07-10 1:27:36 - INFO --> Location = search.php :: Query = code
-2014-07-10 7:28:25 - INFO --> Location = search.php :: Query = society
-2014-07-10 7:34:10 - INFO --> Location = catalog.php :: Query = society
-2014-07-10 7:38:17 - INFO --> Location = catalog.php :: Query = law
-2014-07-10 9:00:44 - INFO --> Location = catalog.php :: Query = regulations

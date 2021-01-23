@@ -1,2 +1,0 @@
-2014-08-25 21:31:56 - INFO --> Location = catalog.php :: Query = professional
-2014-08-25 22:59:25 - INFO --> Location = catalog.php :: Query = advice

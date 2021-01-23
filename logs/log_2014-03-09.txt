@@ -1,5 +1,0 @@
-2014-03-09 12:51:35 - INFO --> Location = search.php :: Query = responsibility
-2014-03-09 18:38:41 - INFO --> Location = search.php :: Query = behaviour
-2014-03-09 18:39:00 - INFO --> Location = search.php :: Query = code
-2014-03-09 18:39:19 - INFO --> Location = search.php :: Query = law
-2014-03-09 18:39:38 - INFO --> Location = search.php :: Query = professional

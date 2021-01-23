@@ -1,6 +1,0 @@
-2014-12-23 1:55:13 - INFO --> Location = search.php :: Query = professional
-2014-12-23 10:04:41 - INFO --> Location = catalog.php :: Query = standards
-2014-12-23 10:05:50 - INFO --> Location = search.php :: Query = health record
-2014-12-23 10:06:06 - INFO --> Location = catalog.php :: Query = health record
-2014-12-23 10:06:29 - INFO --> Location = search.php :: Query = hi ethics
-2014-12-23 10:06:45 - INFO --> Location = search.php :: Query = medication

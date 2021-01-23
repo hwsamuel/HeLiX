@@ -15,6 +15,8 @@ The HeLiX health informatics ethics repository is a searchable platform of ethic
 
 # Demo
 
+A working [live web app](http://199.116.235.207:82/helix/) is available online for demo purposes.
+
 ![HeLiX Web App Demo](demo.png)
 
 # Setup

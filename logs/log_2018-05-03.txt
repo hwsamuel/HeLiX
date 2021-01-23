@@ -1,3 +1,0 @@
-2018-05-03 9:02:22 - INFO --> Location = catalog.php :: Query = code%20of%20ethics
-2018-05-03 9:04:16 - INFO --> Location = catalog.php :: Query = code%20of%20ethics
-2018-05-03 9:05:18 - INFO --> Location = catalog.php :: Query = code%20of%20ethics

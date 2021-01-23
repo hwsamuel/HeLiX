@@ -1,2 +1,0 @@
-2014-05-12 5:04:12 - INFO --> Location = catalog.php :: Query = meet
-2014-05-12 9:30:22 - INFO --> Location = catalog.php :: Query = society

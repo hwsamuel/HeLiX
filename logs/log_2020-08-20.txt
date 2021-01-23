@@ -1,2 +1,0 @@
-2020-08-20 12:51:05 - INFO --> Location = search.php :: Query = 
-2020-08-20 14:50:13 - INFO --> Location = search.php :: Query = conduct

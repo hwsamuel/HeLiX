@@ -1,4 +1,0 @@
-2014-03-20 3:46:59 - INFO --> Location = catalog.php :: Query = justified
-2014-03-20 6:36:35 - INFO --> Location = catalog.php :: Query = established
-2014-03-20 11:47:39 - INFO --> Location = catalog.php :: Query = conduct
-2014-03-20 18:35:25 - INFO --> Location = catalog.php :: Query = meet

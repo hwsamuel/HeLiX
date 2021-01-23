@@ -1,3 +1,0 @@
-2017-01-25 4:55:09 - INFO --> Location = catalog.php :: Query = code of ethics
-2017-01-25 23:48:26 - INFO --> Location = catalog.php :: Query = law
-2017-01-25 23:54:20 - INFO --> Location = catalog.php :: Query = law

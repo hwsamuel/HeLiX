@@ -1,4 +1,0 @@
-2015-09-09 11:44:57 - INFO --> Location = catalog.php :: Query = code of ethics
-2015-09-09 11:56:24 - INFO --> Location = catalog.php :: Query = society
-2015-09-09 13:16:32 - INFO --> Location = catalog.php :: Query = meet
-2015-09-09 19:53:14 - INFO --> Location = catalog.php :: Query = standards

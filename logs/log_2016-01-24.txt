@@ -1,4 +1,0 @@
-2016-01-24 1:53:02 - INFO --> Location = catalog.php :: Query = 
-2016-01-24 1:57:42 - INFO --> Location = catalog.php :: Query = 
-2016-01-24 3:40:24 - INFO --> Location = catalog.php :: Query = meet
-2016-01-24 10:16:10 - INFO --> Location = catalog.php :: Query = conduct

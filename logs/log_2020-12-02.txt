@@ -1,2 +1,0 @@
-2020-12-02 10:51:11 - INFO --> Location = catalog.php :: Query = rules
-2020-12-02 22:28:18 - INFO --> Location = catalog.php :: Query = rules

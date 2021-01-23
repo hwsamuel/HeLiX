@@ -1,1 +1,0 @@
-2017-12-17 19:32:01 - INFO --> Location = catalog.php :: Query = professional

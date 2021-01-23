@@ -1,7 +1,0 @@
-2014-04-20 2:15:40 - INFO --> Location = catalog.php :: Query = standards
-2014-04-20 3:56:31 - INFO --> Location = search.php :: Query = standards
-2014-04-20 4:01:57 - INFO --> Location = catalog.php :: Query = standards
-2014-04-20 4:47:50 - INFO --> Location = catalog.php :: Query = established
-2014-04-20 14:30:02 - INFO --> Location = catalog.php :: Query = introduction
-2014-04-20 14:30:45 - INFO --> Location = catalog.php :: Query = responsibility
-2014-04-20 23:11:38 - INFO --> Location = catalog.php :: Query = law

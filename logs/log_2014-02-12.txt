@@ -1,8 +1,0 @@
-2014-02-12 13:49:54 - INFO --> Location = catalog.php :: Query = expected
-2014-02-12 13:52:34 - INFO --> Location = search.php :: Query = conduct
-2014-02-12 13:53:20 - INFO --> Location = search.php :: Query = code
-2014-02-12 13:53:43 - INFO --> Location = search.php :: Query = established
-2014-02-12 13:54:06 - INFO --> Location = search.php :: Query = general
-2014-02-12 13:54:29 - INFO --> Location = search.php :: Query = professional
-2014-02-12 13:54:52 - INFO --> Location = search.php :: Query = society
-2014-02-12 13:55:15 - INFO --> Location = search.php :: Query = standards

@@ -1,1 +1,0 @@
-2018-10-20 7:38:11 - INFO --> Location = catalog.php :: Query = code of ethics

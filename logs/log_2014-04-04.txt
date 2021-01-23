@@ -1,3 +1,0 @@
-2014-04-04 2:21:19 - INFO --> Location = catalog.php :: Query = advice
-2014-04-04 3:25:14 - INFO --> Location = catalog.php :: Query = regulations
-2014-04-04 8:59:13 - INFO --> Location = catalog.php :: Query = regulations

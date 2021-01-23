@@ -1,2 +1,0 @@
-2018-09-22 14:40:14 - INFO --> Location = catalog.php :: Query = code of ethics
-2018-09-22 15:36:57 - INFO --> Location = catalog.php :: Query = 964

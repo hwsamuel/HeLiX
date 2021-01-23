@@ -1,3 +1,0 @@
-2014-08-06 5:48:53 - INFO --> Location = search.php :: Query = conduct
-2014-08-06 5:54:21 - INFO --> Location = catalog.php :: Query = conduct
-2014-08-06 21:57:19 - INFO --> Location = catalog.php :: Query = behaviour

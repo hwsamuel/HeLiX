@@ -1,2 +1,0 @@
-2014-11-07 0:01:57 - INFO --> Location = search.php :: Query = justified
-2014-11-07 9:20:13 - INFO --> Location = catalog.php :: Query = standards

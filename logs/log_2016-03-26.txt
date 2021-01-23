@@ -1,2 +1,0 @@
-2016-03-26 14:13:28 - INFO --> Location = catalog.php :: Query = meet
-2016-03-26 16:22:28 - INFO --> Location = search.php :: Query = code

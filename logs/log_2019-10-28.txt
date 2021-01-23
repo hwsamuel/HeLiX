@@ -1,2 +1,0 @@
-2019-10-28 3:40:31 - INFO --> Location = search.php :: Query = code
-2019-10-28 21:47:43 - INFO --> Location = catalog.php :: Query = professional

@@ -1,2 +1,0 @@
-2015-03-25 13:13:56 - INFO --> Location = catalog.php :: Query = advice
-2015-03-25 15:11:23 - INFO --> Location = catalog.php :: Query = general

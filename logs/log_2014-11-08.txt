@@ -1,3 +1,0 @@
-2014-11-08 1:32:42 - INFO --> Location = catalog.php :: Query = standards
-2014-11-08 4:13:11 - INFO --> Location = search.php :: Query = conduct
-2014-11-08 9:27:03 - INFO --> Location = catalog.php :: Query = established

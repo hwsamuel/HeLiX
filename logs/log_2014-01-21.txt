@@ -1,5 +1,0 @@
-2014-01-21 6:05:24 - INFO --> Location = search.php :: Query = code
-2014-01-21 7:06:25 - INFO --> Location = search.php :: Query = advice
-2014-01-21 7:07:15 - INFO --> Location = search.php :: Query = introduction
-2014-01-21 7:07:40 - INFO --> Location = search.php :: Query = responsibility
-2014-01-21 7:16:21 - INFO --> Location = search.php :: Query = set
