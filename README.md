@@ -13,6 +13,10 @@ The HeLiX health informatics ethics repository is a searchable platform of ethic
 }
 ```
 
+# Demo
+
+![HeLiX Web App Demo](demo.png)
+
 # Setup
 This web app can be run on any server that supports PHP. Tested with PHP Version 7.2.6. For local use, [XAMPP](https://www.apachefriends.org) is recommended for quick set up.
 
