@@ -1,0 +1,9 @@
+2014-04-03 4:03:33 - INFO --> Location = catalog.php :: Query = established
+2014-04-03 4:03:38 - INFO --> Location = catalog.php :: Query = established
+2014-04-03 4:05:15 - INFO --> Location = catalog.php :: Query = established
+2014-04-03 4:05:22 - INFO --> Location = catalog.php :: Query = established
+2014-04-03 4:05:28 - INFO --> Location = catalog.php :: Query = established
+2014-04-03 4:06:30 - INFO --> Location = catalog.php :: Query = standards
+2014-04-03 17:47:57 - INFO --> Location = catalog.php :: Query = general
+2014-04-03 19:16:44 - INFO --> Location = catalog.php :: Query = meet
+2014-04-03 22:38:01 - INFO --> Location = catalog.php :: Query = standards/RK=0/RS=7WdUcGQAziKM3AkObVeKEB8lp_U-

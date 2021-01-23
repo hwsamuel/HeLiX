@@ -1,0 +1,7 @@
+2014-12-08 13:22:25 - INFO --> Location = search.php :: Query = behaviour
+2014-12-08 20:42:37 - INFO --> Location = catalog.php :: Query = standards' and char(124)+user+char(124)=0 and ''='
+2014-12-08 20:42:39 - INFO --> Location = catalog.php :: Query = standards and char(124)+user+char(124)=0
+2014-12-08 20:42:40 - INFO --> Location = catalog.php :: Query = standards' and char(124)+user+char(124)=0 and '%'='
+2014-12-08 20:42:45 - INFO --> Location = catalog.php :: Query = standards and 1=1
+2014-12-08 20:42:47 - INFO --> Location = catalog.php :: Query = standards and 1=2
+2014-12-08 20:42:51 - INFO --> Location = catalog.php :: Query = standards' and 1=1 and ''='

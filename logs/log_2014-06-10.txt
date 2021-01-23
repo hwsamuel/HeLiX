@@ -1,0 +1,3 @@
+2014-06-10 1:11:04 - INFO --> Location = catalog.php :: Query = established
+2014-06-10 2:47:30 - INFO --> Location = catalog.php :: Query = conduct
+2014-06-10 7:41:36 - INFO --> Location = catalog.php :: Query = set

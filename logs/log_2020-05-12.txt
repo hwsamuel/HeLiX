@@ -1,0 +1,3 @@
+2020-05-12 12:58:51 - INFO --> Location = search.php :: Query = conduct
+2020-05-12 13:52:03 - INFO --> Location = catalog.php :: Query = code of ethics
+2020-05-12 20:56:53 - INFO --> Location = catalog.php :: Query = standards

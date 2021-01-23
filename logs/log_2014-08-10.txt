@@ -1,0 +1,5 @@
+2014-08-10 17:49:38 - INFO --> Location = search.php :: Query = test
+2014-08-10 17:49:43 - INFO --> Location = search.php :: Query = page
+2014-08-10 17:49:54 - INFO --> Location = catalog.php :: Query = ethical
+2014-08-10 17:50:15 - INFO --> Location = search.php :: Query = ethical
+2014-08-10 17:50:29 - INFO --> Location = search.php :: Query = privacy

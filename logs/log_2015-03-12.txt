@@ -1,0 +1,7 @@
+2015-03-12 16:32:57 - INFO --> Location = search.php :: Query = remote access
+2015-03-12 16:33:42 - INFO --> Location = search.php :: Query = "remote access"
+2015-03-12 16:33:59 - INFO --> Location = search.php :: Query = remote
+2015-03-12 16:34:18 - INFO --> Location = search.php :: Query = educate
+2015-03-12 16:41:45 - INFO --> Location = search.php :: Query = awareness
+2015-03-12 16:42:07 - INFO --> Location = search.php :: Query = public
+2015-03-12 18:01:08 - INFO --> Location = catalog.php :: Query = standards

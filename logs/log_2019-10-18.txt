@@ -1,0 +1,2 @@
+2019-10-18 12:22:07 - INFO --> Location = catalog.php :: Query = rules
+2019-10-18 17:10:16 - INFO --> Location = catalog.php :: Query = standards

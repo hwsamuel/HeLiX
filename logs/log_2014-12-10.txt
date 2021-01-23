@@ -1,0 +1,11 @@
+2014-12-10 2:48:03 - INFO --> Location = catalog.php :: Query = rules
+2014-12-10 2:57:02 - INFO --> Location = catalog.php :: Query = society
+2014-12-10 5:46:18 - INFO --> Location = catalog.php :: Query = conduct
+2014-12-10 11:06:22 - INFO --> Location = catalog.php :: Query = general
+2014-12-10 15:24:03 - INFO --> Location = catalog.php :: Query = responsibility
+2014-12-10 16:02:00 - INFO --> Location = catalog.php :: Query = set
+2014-12-10 16:41:56 - INFO --> Location = search.php :: Query = responsibility
+2014-12-10 17:03:54 - INFO --> Location = catalog.php :: Query = code
+2014-12-10 17:09:07 - INFO --> Location = catalog.php :: Query = responsibility
+2014-12-10 19:38:35 - INFO --> Location = search.php :: Query = meet
+2014-12-10 19:46:34 - INFO --> Location = search.php :: Query = society

@@ -1,0 +1,32 @@
+2013-08-11 0:33:38 - INFO --> Info Test
+2013-08-11 0:33:38 - NOTICE --> Notice Test
+2013-08-11 0:33:38 - WARN --> Warn Test
+2013-08-11 0:33:38 - ERROR --> Error Test
+2013-08-11 0:33:38 - CRIT --> Fatal Test
+2013-08-11 0:33:38 - ALERT --> Alert Test
+2013-08-11 0:33:38 - CRIT --> Crit test
+2013-08-11 0:33:38 - EMERG --> Emerg Test
+2013-08-11 0:33:38 - INFO --> Testing passing an array or object; array (
+  'a' => 
+  array (
+    'b' => 'c',
+  ),
+  0 => 'd',
+)
+2013-08-11 0:33:38 - WARN --> Testing passing a NULL value; NULL
+2013-08-11 1:04:00 - INFO --> Info Test
+2013-08-11 1:04:00 - NOTICE --> Notice Test
+2013-08-11 1:04:00 - WARN --> Warn Test
+2013-08-11 1:04:00 - ERROR --> Error Test
+2013-08-11 1:04:00 - CRIT --> Fatal Test
+2013-08-11 1:04:00 - ALERT --> Alert Test
+2013-08-11 1:04:00 - CRIT --> Crit test
+2013-08-11 1:04:00 - EMERG --> Emerg Test
+2013-08-11 1:04:00 - INFO --> Testing passing an array or object; array (
+  'a' => 
+  array (
+    'b' => 'c',
+  ),
+  0 => 'd',
+)
+2013-08-11 1:04:00 - WARN --> Testing passing a NULL value; NULL

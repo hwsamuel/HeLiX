@@ -1,0 +1,2 @@
+2014-07-15 7:29:10 - INFO --> Location = catalog.php :: Query = rules
+2014-07-15 20:41:43 - INFO --> Location = catalog.php :: Query = established

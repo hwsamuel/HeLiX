@@ -1,0 +1,12 @@
+2014-09-28 9:30:39 - INFO --> Location = catalog.php :: Query = behaviour
+2014-09-28 9:51:45 - INFO --> Location = search.php :: Query = advice
+2014-09-28 9:52:16 - INFO --> Location = search.php :: Query = responsibility
+2014-09-28 9:58:00 - INFO --> Location = search.php :: Query = regulations
+2014-09-28 10:28:01 - INFO --> Location = catalog.php :: Query = regulations
+2014-09-28 10:32:54 - INFO --> Location = catalog.php :: Query = responsibility
+2014-09-28 10:37:36 - INFO --> Location = catalog.php :: Query = regulations
+2014-09-28 10:38:39 - INFO --> Location = catalog.php :: Query = responsibility
+2014-09-28 10:47:17 - INFO --> Location = catalog.php :: Query = regulations
+2014-09-28 10:52:15 - INFO --> Location = catalog.php :: Query = responsibility
+2014-09-28 12:00:00 - INFO --> Location = search.php :: Query = meet
+2014-09-28 12:03:39 - INFO --> Location = catalog.php :: Query = meet

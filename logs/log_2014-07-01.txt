@@ -1,0 +1,2 @@
+2014-07-01 7:47:04 - INFO --> Location = search.php :: Query = professional
+2014-07-01 10:11:42 - INFO --> Location = catalog.php :: Query = expected

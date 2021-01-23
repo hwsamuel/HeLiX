@@ -1,0 +1,2 @@
+2020-08-23 21:58:51 - INFO --> Location = search.php :: Query = conduct
+2020-08-23 22:54:32 - INFO --> Location = catalog.php :: Query = standards

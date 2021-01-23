@@ -1,0 +1,35 @@
+{extends file="template.htm"}
+
+{block name=pagetitle}Home{/block}
+{block name=styles}
+<style type="text/css">
+#bubbles {
+	width: 410px;
+	height: 470px;
+	border: none;
+}
+</style>
+{/block}
+
+{block name=content}
+<br />
+<h3>Welcome</h3>
+<div class="row">
+  <div class="span12">
+	The HeLiX health informatics ethics repository is a searchable platform of ethics codes and technical standards related to health informatics ethics. Only codes of ethics and documents that are freely available on the World Wide Web are indexed, and all the documents in our database are fully text-searchable. The aim of the project is to provide an easy lookup reference for researchers in the field of health informatics ethics.
+  
+    <form class="navbar-form" action="search.php">
+      <input class="span6" type="text" name="q" id="q" placeholder="Search catalogs">
+      <button type="submit" class="btn">Search</button>
+    </form>
+  
+    <br />
+    <span class="label">Indexed Documents</span>
+    {foreach $doctags as $doc}
+      <a class="label label-important" href="catalog.php?id={$doc.id}">{$doc.tag|upper}</a>
+    {foreachelse}
+      No submissions made yet
+    {/foreach}
+  </div>
+</div>
+{/block}

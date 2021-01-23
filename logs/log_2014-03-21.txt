@@ -1,0 +1,6 @@
+2014-03-21 0:14:11 - INFO --> Location = catalog.php :: Query = conduct
+2014-03-21 13:52:17 - INFO --> Location = catalog.php :: Query = justified
+2014-03-21 17:25:46 - INFO --> Location = catalog.php :: Query = established
+2014-03-21 17:54:41 - INFO --> Location = search.php :: Query = law
+2014-03-21 17:55:31 - INFO --> Location = search.php :: Query = behaviour
+2014-03-21 20:50:22 - INFO --> Location = catalog.php :: Query = general

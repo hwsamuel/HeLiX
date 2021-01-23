@@ -1,0 +1,9 @@
+2014-07-06 3:37:32 - INFO --> Location = catalog.php :: Query = set
+2014-07-06 7:25:07 - INFO --> Location = search.php :: Query = expected
+2014-07-06 7:55:51 - INFO --> Location = catalog.php :: Query = expected
+2014-07-06 9:05:48 - INFO --> Location = search.php :: Query = introduction
+2014-07-06 9:14:25 - INFO --> Location = catalog.php :: Query = introduction
+2014-07-06 18:54:04 - INFO --> Location = catalog.php :: Query = meet
+2014-07-06 19:31:09 - INFO --> Location = catalog.php :: Query = advice
+2014-07-06 20:30:29 - INFO --> Location = catalog.php :: Query = established
+2014-07-06 21:57:52 - INFO --> Location = catalog.php :: Query = established

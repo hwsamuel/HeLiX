@@ -1,0 +1,8 @@
+2015-08-22 12:12:26 - INFO --> Location = search.php :: Query = established
+2015-08-22 12:32:58 - INFO --> Location = search.php :: Query = meet
+2015-08-22 13:27:31 - INFO --> Location = search.php :: Query = responsibility
+2015-08-22 13:37:32 - INFO --> Location = catalog.php :: Query = code
+2015-08-22 13:40:16 - INFO --> Location = search.php :: Query = advice
+2015-08-22 17:05:27 - INFO --> Location = catalog.php :: Query = standards
+2015-08-22 17:23:37 - INFO --> Location = catalog.php :: Query = standards
+2015-08-22 17:38:46 - INFO --> Location = catalog.php :: Query = behaviour

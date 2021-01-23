@@ -1,0 +1,2 @@
+2020-07-29 12:59:49 - INFO --> Location = catalog.php :: Query = rules
+2020-07-29 17:17:30 - INFO --> Location = search.php :: Query = conduct

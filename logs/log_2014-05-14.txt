@@ -1,0 +1,7 @@
+2014-05-14 2:07:49 - INFO --> Location = search.php :: Query = regulations
+2014-05-14 2:13:23 - INFO --> Location = catalog.php :: Query = regulations
+2014-05-14 5:59:15 - INFO --> Location = catalog.php :: Query = expected
+2014-05-14 7:20:59 - INFO --> Location = catalog.php :: Query = society
+2014-05-14 7:24:25 - INFO --> Location = catalog.php :: Query = established
+2014-05-14 7:50:48 - INFO --> Location = catalog.php :: Query = conduct
+2014-05-14 21:11:31 - INFO --> Location = search.php :: Query = conduct

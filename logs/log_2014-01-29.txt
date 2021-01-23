@@ -1,0 +1,16 @@
+2014-01-29 5:48:39 - INFO --> Location = search.php :: Query = advice
+2014-01-29 5:49:23 - INFO --> Location = search.php :: Query = code
+2014-01-29 5:49:45 - INFO --> Location = search.php :: Query = introduction
+2014-01-29 5:50:07 - INFO --> Location = search.php :: Query = set
+2014-01-29 5:50:29 - INFO --> Location = search.php :: Query = responsibility
+2014-01-29 17:55:27 - INFO --> Location = catalog.php :: Query = code
+2014-01-29 17:55:47 - INFO --> Location = catalog.php :: Query = conduct
+2014-01-29 17:56:07 - INFO --> Location = catalog.php :: Query = law
+2014-01-29 17:56:27 - INFO --> Location = catalog.php :: Query = general
+2014-01-29 17:56:46 - INFO --> Location = catalog.php :: Query = meet
+2014-01-29 17:57:06 - INFO --> Location = catalog.php :: Query = set
+2014-01-29 17:57:26 - INFO --> Location = catalog.php :: Query = professional
+2014-01-29 17:57:45 - INFO --> Location = catalog.php :: Query = advice
+2014-01-29 17:58:05 - INFO --> Location = catalog.php :: Query = standards
+2014-01-29 17:58:25 - INFO --> Location = catalog.php :: Query = code
+2014-01-29 17:59:44 - INFO --> Location = search.php :: Query = conduct

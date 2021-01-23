@@ -1,0 +1,15 @@
+2013-11-25 0:09:09 - INFO --> Location = catalog.php :: Query = expected
+2013-11-25 0:36:40 - INFO --> Location = catalog.php :: Query = introduction
+2013-11-25 1:00:45 - INFO --> Location = catalog.php :: Query = meet
+2013-11-25 1:28:46 - INFO --> Location = catalog.php :: Query = established
+2013-11-25 1:53:16 - INFO --> Location = catalog.php :: Query = expected
+2013-11-25 2:11:47 - INFO --> Location = catalog.php :: Query = introduction
+2013-11-25 2:29:13 - INFO --> Location = catalog.php :: Query = meet
+2013-11-25 5:07:57 - INFO --> Location = catalog.php :: Query = society
+2013-11-25 5:08:25 - INFO --> Location = catalog.php :: Query = established
+2013-11-25 5:08:52 - INFO --> Location = catalog.php :: Query = society
+2013-11-25 12:50:34 - INFO --> Location = catalog.php :: Query = established
+2013-11-25 13:16:55 - INFO --> Location = catalog.php :: Query = justified
+2013-11-25 13:45:22 - INFO --> Location = catalog.php :: Query = justified
+2013-11-25 14:21:06 - INFO --> Location = catalog.php :: Query = rules
+2013-11-25 15:14:02 - INFO --> Location = catalog.php :: Query = rules

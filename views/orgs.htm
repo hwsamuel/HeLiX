@@ -1,0 +1,21 @@
+{extends file="template.htm"}
+
+{block name=pagetitle}Organizations{/block}
+
+{block name=content}
+<br />
+<h3>Organizations</h3>
+<div class="row">
+  <div class="span12">
+  <p>There are various national and international organizations affiliated with medical/health informatics. Below is a listing of the organizations whose materials that have been indexed in HeLiX. </p>
+	
+	<ul>
+	{foreach $orgs as $org}
+		<li><a href="{$org.url}" target="_blank">{$org.organization}</a></li>
+	{/foreach}
+	</ul>
+	
+	<p>The International Medical Informatics Association (IMIA) also maintains a list of its member organizations worldwide: <a target="_blank" href="http://www.imia-medinfo.org/new2/node/13">IMIA Members Listing</a></p>
+  </div>
+</div>
+{/block}

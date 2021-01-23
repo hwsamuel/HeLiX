@@ -1,0 +1,12 @@
+2014-01-25 6:37:52 - INFO --> Location = search.php :: Query = advice
+2014-01-25 6:38:35 - INFO --> Location = search.php :: Query = code
+2014-01-25 6:38:56 - INFO --> Location = search.php :: Query = introduction
+2014-01-25 6:39:39 - INFO --> Location = search.php :: Query = set
+2014-01-25 6:40:01 - INFO --> Location = search.php :: Query = responsibility
+2014-01-25 19:12:18 - INFO --> Location = catalog.php :: Query = expected
+2014-01-25 19:14:59 - INFO --> Location = search.php :: Query = established
+2014-01-25 19:15:45 - INFO --> Location = search.php :: Query = expected
+2014-01-25 19:16:08 - INFO --> Location = search.php :: Query = justified
+2014-01-25 19:16:31 - INFO --> Location = search.php :: Query = meet
+2014-01-25 19:16:54 - INFO --> Location = search.php :: Query = professional
+2014-01-25 19:17:17 - INFO --> Location = search.php :: Query = regulations

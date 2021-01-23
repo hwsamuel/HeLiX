@@ -1,0 +1,20 @@
+2014-05-23 20:26:57 - INFO --> Location = catalog.php :: Query = behaviour
+2014-05-23 20:26:58 - INFO --> Location = catalog.php :: Query = behaviour'`([{^~
+2014-05-23 20:29:40 - INFO --> Location = catalog.php :: Query = behaviour' aND '8'='3
+2014-05-23 20:29:42 - INFO --> Location = catalog.php :: Query = behaviour	aND	8=8
+2014-05-23 20:29:44 - INFO --> Location = catalog.php :: Query = behaviour	aND	8=3
+2014-05-23 20:29:46 - INFO --> Location = catalog.php :: Query = behaviour'	aND	'8'='8
+2014-05-23 20:29:47 - INFO --> Location = catalog.php :: Query = behaviour'	aND	'8'='3
+2014-05-23 20:29:48 - INFO --> Location = catalog.php :: Query = behaviour/**/aND/**/8=8
+2014-05-23 20:29:48 - INFO --> Location = catalog.php :: Query = behaviour/**/aND/**/8=3
+2014-05-23 20:29:49 - INFO --> Location = catalog.php :: Query = behaviour'/**/aND/**/'8'='8
+2014-05-23 20:29:50 - INFO --> Location = catalog.php :: Query = behaviour'/**/aND/**/'8'='3
+2014-05-23 20:29:51 - INFO --> Location = catalog.php :: Query = behaviour%' aND '8%'='8
+2014-05-23 20:29:53 - INFO --> Location = catalog.php :: Query = behaviour%' aND '8%'='3
+2014-05-23 20:29:54 - INFO --> Location = catalog.php :: Query = behaviour%'	aND	'8'='8
+2014-05-23 20:29:55 - INFO --> Location = catalog.php :: Query = behaviour%'	aND	'8%'='3
+2014-05-23 20:29:59 - INFO --> Location = catalog.php :: Query = behaviour%'/**/aND/**/'8'='8
+2014-05-23 20:30:00 - INFO --> Location = catalog.php :: Query = behaviour%'/**/aND/**/'8%'='3
+2014-05-23 20:33:07 - INFO --> Location = catalog.php :: Query = behaviour
+2014-05-23 20:33:08 - INFO --> Location = catalog.php :: Query = behaviour
+2014-05-23 20:33:10 - INFO --> Location = catalog.php :: Query = behaviour

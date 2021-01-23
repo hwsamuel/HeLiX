@@ -1,0 +1,2 @@
+2020-12-14 12:51:42 - INFO --> Location = catalog.php :: Query = responsibility
+2020-12-14 23:32:45 - INFO --> Location = catalog.php :: Query = code of ethics

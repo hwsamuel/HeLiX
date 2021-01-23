@@ -1,0 +1,5 @@
+2013-12-06 16:19:59 - INFO --> Location = search.php :: Query = conduct
+2013-12-06 16:35:09 - INFO --> Location = catalog.php :: Query = conduct
+2013-12-06 16:36:29 - INFO --> Location = catalog.php :: Query = conduct
+2013-12-06 16:37:33 - INFO --> Location = catalog.php :: Query = conduct
+2013-12-06 20:25:32 - INFO --> Location = search.php :: Query = rules

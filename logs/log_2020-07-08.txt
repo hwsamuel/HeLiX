@@ -1,0 +1,2 @@
+2020-07-08 14:52:13 - INFO --> Location = catalog.php :: Query = standards
+2020-07-08 15:25:37 - INFO --> Location = catalog.php :: Query = set

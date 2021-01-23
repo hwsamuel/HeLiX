@@ -1,0 +1,3 @@
+2014-07-11 15:33:18 - INFO --> Location = catalog.php :: Query = -1'
+2014-07-11 15:33:25 - INFO --> Location = catalog.php :: Query = standards
+2014-07-11 15:34:15 - INFO --> Location = catalog.php :: Query = -1'

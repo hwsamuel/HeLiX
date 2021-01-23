@@ -1,0 +1,2 @@
+2014-03-29 2:54:48 - INFO --> Location = catalog.php :: Query = behaviour
+2014-03-29 3:19:25 - INFO --> Location = catalog.php :: Query = justified

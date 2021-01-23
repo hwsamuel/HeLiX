@@ -1,0 +1,3 @@
+2020-04-24 1:33:36 - INFO --> Location = search.php :: Query = conduct
+2020-04-24 12:01:05 - INFO --> Location = catalog.php :: Query = set
+2020-04-24 14:02:17 - INFO --> Location = catalog.php :: Query = code of ethics

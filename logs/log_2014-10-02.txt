@@ -1,0 +1,4 @@
+2014-10-02 2:50:15 - INFO --> Location = catalog.php :: Query = set
+2014-10-02 10:00:53 - INFO --> Location = catalog.php :: Query = conduct
+2014-10-02 13:22:32 - INFO --> Location = catalog.php :: Query = behaviour
+2014-10-02 14:17:44 - INFO --> Location = catalog.php :: Query = professional

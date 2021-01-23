@@ -1,0 +1,6 @@
+2014-02-27 2:10:28 - INFO --> Location = search.php :: Query = justified
+2014-02-27 2:10:55 - INFO --> Location = search.php :: Query = introduction
+2014-02-27 2:11:50 - INFO --> Location = search.php :: Query = regulations
+2014-02-27 13:41:30 - INFO --> Location = catalog.php :: Query = conduct
+2014-02-27 13:41:56 - INFO --> Location = catalog.php :: Query = conduct
+2014-02-27 13:42:47 - INFO --> Location = catalog.php :: Query = conduct

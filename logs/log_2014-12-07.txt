@@ -1,0 +1,2 @@
+2014-12-07 3:24:22 - INFO --> Location = catalog.php :: Query = -1'
+2014-12-07 19:37:12 - INFO --> Location = catalog.php :: Query = responsibility

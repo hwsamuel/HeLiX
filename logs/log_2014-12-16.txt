@@ -1,0 +1,2 @@
+2014-12-16 16:24:41 - INFO --> Location = catalog.php :: Query = law
+2014-12-16 16:36:33 - INFO --> Location = catalog.php :: Query = rules

@@ -1,0 +1,4 @@
+2014-10-17 0:30:08 - INFO --> Location = search.php :: Query = rules
+2014-10-17 1:14:35 - INFO --> Location = catalog.php :: Query = standards
+2014-10-17 9:42:23 - INFO --> Location = search.php :: Query = 
+2014-10-17 11:12:31 - INFO --> Location = catalog.php :: Query = standards

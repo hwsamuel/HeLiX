@@ -1,0 +1,1 @@
+2020-12-06 8:25:09 - INFO --> Location = catalog.php :: Query = Principle of Information-Privacy & Disposition

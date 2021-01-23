@@ -1,0 +1,93 @@
+{extends file="template.htm"}
+
+{block name=pagetitle}Catalog : {$title}{/block}
+
+{block name=content}
+<script>
+	var i = 0;
+	function next() {
+		$("#keyword"+i).css("background-color", "orange");
+		$("#keyword"+i).css("color", "white");
+		if (i < {$matches}) i = i + 1;
+		else i = 1;
+		$("#keyword"+i).css("background-color", "yellow");
+		$("#keyword"+i).css("color", "red");
+		scroll(i);
+	}
+	function prev() {
+		$("#keyword"+i).css("background-color", "orange");
+		$("#keyword"+i).css("color", "white");
+		if (i > 1) i = i - 1;
+		else i = {$matches};
+		$("#keyword"+i).css("background-color", "yellow");
+		$("#keyword"+i).css("color", "red");
+		scroll(i);
+	}
+	function scroll(i) {
+		var position = $("#keyword"+i).offset();
+		setTimeout('window.scrollTo('+position.left+','+(position.top-100)+')',1);
+	}
+
+	function gotop() {
+		i = 1;
+		setTimeout('window.scrollTo(0,0)',1);
+	}
+</script>
+
+<style>
+	#searchnav {
+		position: fixed;
+		left: 60%;
+		top: 100px;
+		width: 320px;
+		height: 70px;
+		padding: 5px;
+		background: #EEE;
+		border: 1px solid #CCC;
+		text-align: center;
+	}
+	#summary {
+		text-align: left;
+	}
+</style>
+
+<br />
+<h3>{$title} <a href="#" class="label" onclick="$('#info').toggle();">&#x25BC;</a></h3>
+<div class="row">
+	<div class="span12" id="info">
+
+	<b>Organization</b>: <a target="_blank" href="{$url}">{$org}</a><br />
+	<b>Publication Year</b>: {$year}<br />
+	<b>Type</b>: {$type}<br />
+	<b>Source</b>: <a target="_blank" href="{$source}">URL</a><br />
+	<b>Date Indexed</b>: {$last_indexed|date_format}
+	</div>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <form class="navbar-form" action="catalog.php">
+			<input type="hidden" name="id" value="{$id}">
+      <input class="span6" type="text" name="q" id="q" placeholder="Search within this catalog">
+      <button type="submit" class="btn">Search</button>
+    </form>
+	</div>
+</div>
+
+<br />
+<div class="row">
+	<div class="span3" id="searchnav" style="{if !isset($smarty.request.q)}display:none{/if}">
+		<div id="summary">
+		Search keywords: <a onclick="next();" href="#" class="label label-warning">{$q}</a><br />
+		{$matches} result(s) found
+		</div>
+		
+		<a href="#" onclick="prev();">&lt; Previous</a> |
+		<a href="#" onclick="next();">Next &gt;</a>
+	</div>
+	
+  <div class="span9">
+    {$contents}
+  </div>
+</div>
+{/block}

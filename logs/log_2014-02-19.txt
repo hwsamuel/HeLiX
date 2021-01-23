@@ -1,0 +1,8 @@
+2014-02-19 9:24:53 - INFO --> Location = search.php :: Query = introduction to clinical 
+2014-02-19 17:56:12 - INFO --> Location = catalog.php :: Query = expected
+2014-02-19 21:47:02 - INFO --> Location = search.php :: Query = general
+2014-02-19 21:47:24 - INFO --> Location = search.php :: Query = conduct
+2014-02-19 21:47:45 - INFO --> Location = search.php :: Query = law
+2014-02-19 21:48:06 - INFO --> Location = search.php :: Query = standards
+2014-02-19 21:48:49 - INFO --> Location = search.php :: Query = professional
+2014-02-19 23:26:05 - INFO --> Location = search.php :: Query = society

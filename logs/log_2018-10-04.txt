@@ -1,0 +1,2 @@
+2018-10-04 0:22:22 - INFO --> Location = catalog.php :: Query = responsibility
+2018-10-04 18:10:45 - INFO --> Location = catalog.php :: Query = responsibility

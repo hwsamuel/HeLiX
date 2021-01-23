@@ -1,0 +1,4 @@
+2015-09-01 17:53:54 - INFO --> Location = catalog.php :: Query = responsibility
+2015-09-01 18:36:19 - INFO --> Location = catalog.php :: Query = conduct
+2015-09-01 20:25:30 - INFO --> Location = search.php :: Query = meet
+2015-09-01 22:46:27 - INFO --> Location = catalog.php :: Query = professional

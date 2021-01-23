@@ -1,0 +1,9 @@
+2014-03-25 0:33:47 - INFO --> Location = catalog.php :: Query = expected
+2014-03-25 1:39:50 - INFO --> Location = catalog.php :: Query = code
+2014-03-25 3:48:51 - INFO --> Location = catalog.php :: Query = responsibility
+2014-03-25 3:50:41 - INFO --> Location = catalog.php :: Query = set
+2014-03-25 6:57:31 - INFO --> Location = catalog.php :: Query = code
+2014-03-25 7:26:23 - INFO --> Location = catalog.php :: Query = standards
+2014-03-25 15:33:07 - INFO --> Location = catalog.php :: Query = standards
+2014-03-25 23:19:16 - INFO --> Location = catalog.php :: Query = law
+2014-03-25 23:26:17 - INFO --> Location = catalog.php :: Query = established

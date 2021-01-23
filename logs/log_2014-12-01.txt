@@ -1,0 +1,6 @@
+2014-12-01 0:55:38 - INFO --> Location = catalog.php :: Query = conduct
+2014-12-01 0:59:22 - INFO --> Location = catalog.php :: Query = behaviour
+2014-12-01 1:26:48 - INFO --> Location = catalog.php :: Query = set
+2014-12-01 1:35:42 - INFO --> Location = catalog.php :: Query = rules
+2014-12-01 11:15:52 - INFO --> Location = catalog.php :: Query = rules
+2014-12-01 21:26:33 - INFO --> Location = catalog.php :: Query = standards

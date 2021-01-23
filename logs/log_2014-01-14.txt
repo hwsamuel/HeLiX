@@ -1,0 +1,5 @@
+2014-01-14 22:19:12 - INFO --> Location = search.php :: Query = expected
+2014-01-14 22:19:36 - INFO --> Location = search.php :: Query = justified
+2014-01-14 22:20:01 - INFO --> Location = search.php :: Query = meet
+2014-01-14 22:20:25 - INFO --> Location = search.php :: Query = professional
+2014-01-14 22:20:50 - INFO --> Location = search.php :: Query = regulations

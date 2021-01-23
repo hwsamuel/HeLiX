@@ -1,0 +1,2 @@
+2013-12-18 20:34:47 - INFO --> Location = search.php :: Query = behaviour
+2013-12-18 20:45:23 - INFO --> Location = search.php :: Query = set

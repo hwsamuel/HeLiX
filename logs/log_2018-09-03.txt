@@ -1,0 +1,1 @@
+2018-09-03 9:00:22 - INFO --> Location = catalog.php :: Query = responsibility

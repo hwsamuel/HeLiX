@@ -1,0 +1,10 @@
+2019-10-13 0:55:13 - INFO --> Location = search.php :: Query = rules
+2019-10-13 1:34:01 - INFO --> Location = search.php :: Query = regulations
+2019-10-13 1:35:30 - INFO --> Location = search.php :: Query = expected
+2019-10-13 2:05:28 - INFO --> Location = search.php :: Query = law
+2019-10-13 2:27:46 - INFO --> Location = catalog.php :: Query = professional
+2019-10-13 3:15:05 - INFO --> Location = search.php :: Query = justified
+2019-10-13 3:26:39 - INFO --> Location = search.php :: Query = conduct
+2019-10-13 4:00:40 - INFO --> Location = catalog.php :: Query = law
+2019-10-13 16:50:12 - INFO --> Location = search.php :: Query = code
+2019-10-13 19:18:52 - INFO --> Location = catalog.php :: Query = code

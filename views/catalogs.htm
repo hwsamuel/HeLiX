@@ -1,0 +1,40 @@
+{extends file="template.htm"}
+
+{block name=pagetitle}Catalogs{/block}
+
+{block name=content}
+<br />
+<h3>Catalogs</h3>
+
+<div class="row">
+  <div class="span12">
+    <form class="navbar-form" action="search.php">
+      <input class="span6" type="text" name="q" id="q" placeholder="Search catalogs">
+      <button type="submit" class="btn">Search</button>
+		</form>
+	</div>
+</div>
+
+<br />
+<div class="row">
+  <div class="span12">
+	<b>Show/Hide:</b> {foreach $docs as $doc}
+	{$doc.tag|upper} <a class="label" href="#" onclick="$('#block{$doc.id}').toggle();">&#x25BC;</a>
+	{/foreach}
+	</div>
+</div>
+
+<br />
+<div class="row">
+  <div class="span12">
+    {foreach $docs as $doc}
+			<div id="block{$doc.id}">
+				<h4><a href="catalog.php?id={$doc.id}">{$doc.title}</a> <small>{$doc.organization}{if $doc.publication_year!= null}, {$doc.publication_year}{/if}</small></h4>
+				<div class="scrollable">{$doc.content}</div>
+			</div>
+    {foreachelse}
+			<i>No results found</i>
+    {/foreach}
+  </div>
+</div>
+{/block}

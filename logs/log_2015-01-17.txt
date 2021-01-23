@@ -1,0 +1,7 @@
+2015-01-17 2:34:09 - INFO --> Location = catalog.php :: Query = standards
+2015-01-17 3:10:27 - INFO --> Location = catalog.php :: Query = code
+2015-01-17 4:14:09 - INFO --> Location = catalog.php :: Query = code
+2015-01-17 6:18:28 - INFO --> Location = search.php :: Query = code
+2015-01-17 10:16:18 - INFO --> Location = catalog.php :: Query = law
+2015-01-17 11:19:24 - INFO --> Location = catalog.php :: Query = expected
+2015-01-17 15:01:50 - INFO --> Location = catalog.php :: Query = general

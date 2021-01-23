@@ -1,0 +1,6 @@
+2014-11-02 4:49:08 - INFO --> Location = catalog.php :: Query = established
+2014-11-02 4:59:00 - INFO --> Location = catalog.php :: Query = standards
+2014-11-02 7:50:26 - INFO --> Location = catalog.php :: Query = established
+2014-11-02 9:33:16 - INFO --> Location = catalog.php :: Query = established
+2014-11-02 14:16:35 - INFO --> Location = search.php :: Query = introduction
+2014-11-02 14:17:46 - INFO --> Location = catalog.php :: Query = introduction

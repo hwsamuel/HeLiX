@@ -1,0 +1,29 @@
+{extends file="template.htm"}
+
+{block name=pagetitle}Home{/block}
+
+{block name=content}
+<br />
+<h3>Login</h3>
+
+<p>{$msg}</p>
+<form action="login.php" method="post">
+<div class="row">
+  <div class="span2">Username:</div>
+  <div class="span3"><input type="text" name="username" /></div>
+  <div class="span7"></div>
+</div>
+
+<div class="row">
+  <div class="span2">Password:</div>
+  <div class="span3"><input type="password" name="password" /></div>
+  <div class="span7"></div>
+</div>
+
+<div class="row">
+  <div class="span6"><input type="submit" name="login" value="Log in" /></div>
+  <div class="span6"></div>
+</div>
+</form>
+
+{/block}

@@ -1,0 +1,1 @@
+2020-08-16 16:01:00 - INFO --> Location = search.php :: Query = conduct

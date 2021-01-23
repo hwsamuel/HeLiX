@@ -1,0 +1,6 @@
+2019-11-12 6:57:48 - INFO --> Location = catalog.php :: Query = code of ethics
+2019-11-12 6:57:51 - INFO --> Location = catalog.php :: Query = code of ethics'[0]
+2019-11-12 6:57:53 - INFO --> Location = catalog.php :: Query = "><script >alert(String.fromCharCode(88,83,83))</script>
+2019-11-12 6:57:55 - INFO --> Location = catalog.php :: Query = /etc/passwd
+2019-11-12 6:57:56 - INFO --> Location = catalog.php :: Query = http://www.google.com
+2019-11-12 11:49:36 - INFO --> Location = search.php :: Query = 

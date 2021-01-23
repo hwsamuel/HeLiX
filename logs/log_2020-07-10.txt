@@ -1,0 +1,1 @@
+2020-07-10 12:30:21 - INFO --> Location = catalog.php :: Query = standards

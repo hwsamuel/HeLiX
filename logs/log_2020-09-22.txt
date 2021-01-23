@@ -1,0 +1,1 @@
+2020-09-22 6:16:55 - INFO --> Location = catalog.php :: Query = rules

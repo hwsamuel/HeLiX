@@ -1,0 +1,2 @@
+2017-06-28 9:17:59 - INFO --> Location = catalog.php :: Query = standards
+2017-06-28 9:37:20 - INFO --> Location = catalog.php :: Query = standards

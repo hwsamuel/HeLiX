@@ -1,0 +1,73 @@
+2018-02-05 8:51:05 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 8:51:06 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 8:51:43 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 8:52:24 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 8:52:25 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 8:59:34 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 8:59:35 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:00:12 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:00:55 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:00:56 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 9:09:11 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:09:11 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:09:48 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:10:28 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:10:29 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 9:11:06 - INFO --> Location = catalog.php :: Query = standards and 1>1
+2018-02-05 9:11:07 - INFO --> Location = catalog.php :: Query = standards' and 'x'='x
+2018-02-05 9:11:08 - INFO --> Location = catalog.php :: Query = standards' and 'x'='y
+2018-02-05 9:11:09 - INFO --> Location = catalog.php :: Query = standards" and "x"="x
+2018-02-05 9:11:10 - INFO --> Location = catalog.php :: Query = standards" and "x"="y
+2018-02-05 9:11:47 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:11:50 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:12:31 - INFO --> Location = catalog.php :: Query = standards99999' union select unhex(hex(version())) -- 'x'='x
+2018-02-05 9:12:33 - INFO --> Location = catalog.php :: Query = standards99999" union select unhex(hex(version())) -- "x"="x
+2018-02-05 9:13:10 - INFO --> Location = catalog.php :: Query = standards' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- 'x'='x
+2018-02-05 9:13:11 - INFO --> Location = catalog.php :: Query = standards" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- "x"="x
+2018-02-05 9:19:33 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:19:34 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:20:10 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:20:51 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:20:51 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 9:21:28 - INFO --> Location = catalog.php :: Query = standards and 1>1
+2018-02-05 9:21:29 - INFO --> Location = catalog.php :: Query = standards' and 'x'='x
+2018-02-05 9:21:30 - INFO --> Location = catalog.php :: Query = standards' and 'x'='y
+2018-02-05 9:21:31 - INFO --> Location = catalog.php :: Query = standards" and "x"="x
+2018-02-05 9:21:33 - INFO --> Location = catalog.php :: Query = standards" and "x"="y
+2018-02-05 9:22:10 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:22:12 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:22:51 - INFO --> Location = catalog.php :: Query = standards99999' union select unhex(hex(version())) -- 'x'='x
+2018-02-05 9:22:52 - INFO --> Location = catalog.php :: Query = standards99999" union select unhex(hex(version())) -- "x"="x
+2018-02-05 9:23:29 - INFO --> Location = catalog.php :: Query = standards' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- 'x'='x
+2018-02-05 9:23:30 - INFO --> Location = catalog.php :: Query = standards" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- "x"="x
+2018-02-05 9:30:13 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:30:14 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:30:53 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:31:34 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:31:35 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 9:49:32 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:49:33 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:50:09 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:50:49 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:50:50 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 9:51:27 - INFO --> Location = catalog.php :: Query = standards and 1>1
+2018-02-05 9:51:28 - INFO --> Location = catalog.php :: Query = standards' and 'x'='x
+2018-02-05 9:51:29 - INFO --> Location = catalog.php :: Query = standards' and 'x'='y
+2018-02-05 9:51:30 - INFO --> Location = catalog.php :: Query = standards" and "x"="x
+2018-02-05 9:51:31 - INFO --> Location = catalog.php :: Query = standards" and "x"="y
+2018-02-05 9:52:08 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:52:10 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:52:49 - INFO --> Location = catalog.php :: Query = standards99999' union select unhex(hex(version())) -- 'x'='x
+2018-02-05 9:52:50 - INFO --> Location = catalog.php :: Query = standards99999" union select unhex(hex(version())) -- "x"="x
+2018-02-05 9:53:27 - INFO --> Location = catalog.php :: Query = standards' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- 'x'='x
+2018-02-05 9:53:28 - INFO --> Location = catalog.php :: Query = standards" or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a) -- "x"="x
+2018-02-05 9:59:14 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:59:16 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 9:59:53 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 10:00:35 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 10:00:37 - INFO --> Location = catalog.php :: Query = standards2121121121212.1
+2018-02-05 10:09:30 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 10:09:32 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 10:10:09 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 10:10:52 - INFO --> Location = catalog.php :: Query = standards
+2018-02-05 10:10:53 - INFO --> Location = catalog.php :: Query = standards2121121121212.1

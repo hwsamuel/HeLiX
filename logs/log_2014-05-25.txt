@@ -1,0 +1,4 @@
+2014-05-25 1:39:03 - INFO --> Location = catalog.php :: Query = code
+2014-05-25 2:33:44 - INFO --> Location = catalog.php :: Query = society
+2014-05-25 14:18:29 - INFO --> Location = catalog.php :: Query = general
+2014-05-25 19:27:52 - INFO --> Location = catalog.php :: Query = rules

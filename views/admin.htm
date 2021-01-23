@@ -1,0 +1,65 @@
+{extends file="template.htm"}
+
+{block name=pagetitle}Admin{/block}
+
+{block name=content}
+<br />
+<h1>Admin</h1>
+<p><a href="?logout">Log out</a></p>
+<p>{$msg}</p>
+
+<form action="admin.php" enctype="multipart/form-data" method="post">
+<div class="row">
+  <div class="span3">Choose HTML file to index:</div>
+  <div class="span3"><input name="path" type="file" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Title:</div>
+  <div class="span3"><input type="text" name="title" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Type <small>(Code/Specification)</small>:</div>
+  <div class="span3"><input type="text" name="type" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Organization:</div>
+  <div class="span3"><input type="text" name="organization" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Website:</div>
+  <div class="span3"><input type="text" name="url" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Tags <small>(separate by comma)</small>:</div>
+  <div class="span3"><input type="text" name="tag" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Year published:</div>
+  <div class="span3"><input type="text" name="publication_year" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span3">Source:</div>
+  <div class="span3"><input type="text" name="source" /></div>
+  <div class="span6"></div>
+</div>
+
+<div class="row">
+  <div class="span6"><input type="submit" value="Upload File" /></div>
+  <div class="span6"></div>
+</div>
+</form>
+{/block}

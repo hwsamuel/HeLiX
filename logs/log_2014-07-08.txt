@@ -1,0 +1,7 @@
+2014-07-08 0:02:11 - INFO --> Location = search.php :: Query = introduction
+2014-07-08 6:24:19 - INFO --> Location = search.php :: Query = responsibility
+2014-07-08 6:26:59 - INFO --> Location = search.php :: Query = advice
+2014-07-08 9:08:05 - INFO --> Location = catalog.php :: Query = general
+2014-07-08 9:22:14 - INFO --> Location = catalog.php :: Query = professional
+2014-07-08 10:06:30 - INFO --> Location = catalog.php :: Query = set
+2014-07-08 16:34:59 - INFO --> Location = catalog.php :: Query = meet

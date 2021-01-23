@@ -1,0 +1,6 @@
+2016-03-21 15:15:35 - INFO --> Location = search.php :: Query = americam informatics association
+2016-03-21 15:16:15 - INFO --> Location = search.php :: Query = AMIA
+2016-03-21 15:16:47 - INFO --> Location = search.php :: Query = american medical informatics association
+2016-03-21 20:20:25 - INFO --> Location = search.php :: Query = code
+2016-03-21 22:57:29 - INFO --> Location = catalog.php :: Query = professional
+2016-03-21 23:16:41 - INFO --> Location = catalog.php :: Query = code of ethics

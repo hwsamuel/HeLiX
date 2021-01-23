@@ -1,0 +1,5 @@
+2014-10-24 4:38:46 - INFO --> Location = catalog.php :: Query = standards
+2014-10-24 11:24:08 - INFO --> Location = catalog.php :: Query = rules
+2014-10-24 13:21:35 - INFO --> Location = catalog.php :: Query = professional
+2014-10-24 20:00:07 - INFO --> Location = catalog.php :: Query = rules
+2014-10-24 20:03:20 - INFO --> Location = catalog.php :: Query = established

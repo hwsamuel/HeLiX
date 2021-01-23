@@ -1,0 +1,4 @@
+2018-09-27 12:12:44 - INFO --> Location = catalog.php :: Query = code of ethics
+2018-09-27 17:11:07 - INFO --> Location = catalog.php :: Query = 768
+2018-09-27 18:19:40 - INFO --> Location = catalog.php :: Query = responsibility
+2018-09-27 18:19:42 - INFO --> Location = catalog.php :: Query = responsibility'[0]

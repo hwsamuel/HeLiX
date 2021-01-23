@@ -1,0 +1,2 @@
+2014-04-15 0:12:07 - INFO --> Location = catalog.php :: Query = standards
+2014-04-15 6:20:12 - INFO --> Location = search.php :: Query = conduct

@@ -1,0 +1,5 @@
+2018-09-16 9:45:53 - INFO --> Location = catalog.php :: Query = code of ethics
+2018-09-16 10:53:01 - INFO --> Location = catalog.php :: Query = 696
+2018-09-16 11:24:10 - INFO --> Location = catalog.php :: Query = set
+2018-09-16 13:08:50 - INFO --> Location = catalog.php :: Query = code of ethics
+2018-09-16 18:23:43 - INFO --> Location = catalog.php :: Query = standards

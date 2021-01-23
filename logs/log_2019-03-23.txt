@@ -1,0 +1,2 @@
+2019-03-23 17:14:01 - INFO --> Location = catalog.php :: Query = set
+2019-03-23 17:14:21 - INFO --> Location = catalog.php :: Query = set'

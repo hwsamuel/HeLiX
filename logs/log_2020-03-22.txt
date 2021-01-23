@@ -1,0 +1,4 @@
+2020-03-22 9:00:40 - INFO --> Location = search.php :: Query = conduct
+2020-03-22 10:10:50 - INFO --> Location = catalog.php :: Query = professional
+2020-03-22 11:31:59 - INFO --> Location = catalog.php :: Query = professional
+2020-03-22 19:58:34 - INFO --> Location = catalog.php :: Query = law

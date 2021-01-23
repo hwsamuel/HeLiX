@@ -1,0 +1,4 @@
+2014-11-21 6:04:32 - INFO --> Location = catalog.php :: Query = advice
+2014-11-21 9:57:04 - INFO --> Location = search.php :: Query = code of ethics
+2014-11-21 9:57:19 - INFO --> Location = catalog.php :: Query = code of ethics
+2014-11-21 9:57:33 - INFO --> Location = catalog.php :: Query = code of ethics

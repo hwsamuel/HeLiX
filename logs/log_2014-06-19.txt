@@ -1,0 +1,2 @@
+2014-06-19 8:03:03 - INFO --> Location = catalog.php :: Query = rules
+2014-06-19 17:43:46 - INFO --> Location = catalog.php :: Query = justified

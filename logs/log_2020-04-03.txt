@@ -1,0 +1,1 @@
+2020-04-03 8:45:41 - INFO --> Location = catalog.php :: Query = professional

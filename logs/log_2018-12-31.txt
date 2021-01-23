@@ -1,0 +1,1 @@
+2018-12-31 18:51:38 - INFO --> Location = catalog.php :: Query = standards

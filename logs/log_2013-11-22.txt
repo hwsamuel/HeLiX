@@ -1,0 +1,5 @@
+2013-11-22 5:44:38 - INFO --> Location = search.php :: Query = established
+2013-11-22 5:45:02 - INFO --> Location = search.php :: Query = society
+2013-11-22 5:45:25 - INFO --> Location = search.php :: Query = general
+2013-11-22 5:45:49 - INFO --> Location = search.php :: Query = standards
+2013-11-22 18:45:49 - INFO --> Location = catalog.php :: Query = justified

@@ -1,0 +1,6 @@
+2014-07-07 2:00:32 - INFO --> Location = search.php :: Query = meet
+2014-07-07 2:26:24 - INFO --> Location = search.php :: Query = regulations
+2014-07-07 5:19:38 - INFO --> Location = catalog.php :: Query = standards
+2014-07-07 7:46:51 - INFO --> Location = search.php :: Query = expected
+2014-07-07 12:34:47 - INFO --> Location = catalog.php :: Query = general
+2014-07-07 22:44:11 - INFO --> Location = search.php :: Query = set

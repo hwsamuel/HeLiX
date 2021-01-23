@@ -1,0 +1,3 @@
+2014-05-16 0:49:12 - INFO --> Location = search.php :: Query = meet
+2014-05-16 13:32:12 - INFO --> Location = search.php :: Query = standards
+2014-05-16 15:06:43 - INFO --> Location = search.php :: Query = general

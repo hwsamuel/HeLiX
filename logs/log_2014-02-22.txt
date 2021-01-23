@@ -1,0 +1,9 @@
+2014-02-22 4:17:35 - INFO --> Location = search.php :: Query = general
+2014-02-22 4:31:07 - INFO --> Location = catalog.php :: Query = regulations
+2014-02-22 6:56:28 - INFO --> Location = catalog.php :: Query = responsibility
+2014-02-22 13:56:39 - INFO --> Location = search.php :: Query = behaviour
+2014-02-22 13:56:59 - INFO --> Location = search.php :: Query = law
+2014-02-22 16:02:22 - INFO --> Location = catalog.php :: Query = rules
+2014-02-22 16:04:28 - INFO --> Location = search.php :: Query = code
+2014-02-22 16:04:49 - INFO --> Location = search.php :: Query = conduct
+2014-02-22 16:05:31 - INFO --> Location = search.php :: Query = professional

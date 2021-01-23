@@ -1,0 +1,2 @@
+2014-11-29 14:13:30 - INFO --> Location = search.php :: Query = expected
+2014-11-29 20:58:51 - INFO --> Location = search.php :: Query = standards

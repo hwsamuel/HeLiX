@@ -1,0 +1,2 @@
+2013-12-31 0:30:38 - INFO --> Location = search.php :: Query = behaviour
+2013-12-31 12:34:00 - INFO --> Location = catalog.php :: Query = expected
