@@ -1,4 +1,4 @@
-# HeLiX
+# HeLiX Health Informatics Ethics Repository [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 The HeLiX health informatics ethics repository is a searchable platform of ethics codes and technical standards related to health informatics ethics. Please cite the following publication (DOI: [10.5210/ojphi.v6i2.5484](http://dx.doi.org/10.5210/ojphi.v6i2.5484)) when modifying or using this source code.
 
 ```
